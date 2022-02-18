@@ -1,4 +1,11 @@
-### Hi there 👋
+Eae pessoal! 👋
+
+- 📚 No Ensino Médio Técnico em Informática, 2º ano
+- 🌱 Atualmente aprendendo Java, HTML, CSS e JavaScript
+- 📫 Como me contatar... vitoriabarbosa2474@gmail.com
+- 💻 Front-End Dev Jr
+- 🔍 Sempre buscando novas fontes de conhecimento!
+- ✨"Tudo é possível ao que crê!"✨
 
 <!--
 **vitoriabarbosa/vitoriabarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
