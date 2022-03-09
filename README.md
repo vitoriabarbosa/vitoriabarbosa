@@ -2,8 +2,8 @@ Eae pessoal! 👋
 
 - 📚 No Ensino Médio Técnico em Informática, 2º ano
 - 🌱 Atualmente aprendendo Java, HTML, CSS e JavaScript
-- 💻 Front-End Dev Jr
 - 🔍 Sempre buscando novas fontes de conhecimento!
+- 💬 Pergunte-me sobre tecnologia, idiomas, filmes, curiosidades... 
 - ✨"Tudo é possível ao que crê!"✨
 
 <!--
