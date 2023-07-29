@@ -1,7 +1,6 @@
 Olá!👋
 
-- 📚 3º ano Ensino Médio Técnico em Informática
-- 🌱 Atualmente aprendendo Java, HTML, CSS e JavaScript
+- 📚 Ensino Médio Técnico em Informática
 - 🔍 Sempre buscando novas fontes de conhecimento!
 - 💬 Pergunte-me sobre tecnologia, idiomas, filmes, curiosidades... 
 - ✨"Tudo é possível ao que crê!"✨
