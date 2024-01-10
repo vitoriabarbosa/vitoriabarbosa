@@ -1,8 +1,8 @@
-Olá!👋
+Olá! Seja bem-vindo 👋
 
-- 📚 Ensino Médio Técnico em Informática
-- 🔍 Sempre buscando novas fontes de conhecimento!
-- 💬 Pergunte-me sobre tecnologia, idiomas, filmes, curiosidades... 
+- 💻 Cursando Engenharia de Software
+- 📚 Estudando Desenvolvimento Front-End
+- 🔍 Sempre em busca de novos conhecimento!
 - ✨"Tudo é possível ao que crê!"✨
 
 <div align="center">
