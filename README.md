@@ -2,8 +2,8 @@ Olá! Seja bem-vindo 👋
 
 - 💻 Cursando Engenharia de Software
 - 📚 Estudando Desenvolvimento Front-End
-- 🔍 Sempre em busca de novos conhecimento!
-- ✨"Tudo é possível ao que crê!"✨
+- 🔍 Sempre em busca de novos conhecimentos!
+- ✨ Tudo é possível ao que crê! ✨
 
 <div align="center">
   <a href="https://github.com/vitoriabarbosa">
@@ -13,11 +13,15 @@ Olá! Seja bem-vindo 👋
   
 <div style="display: flex", ><br>
 <!--  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">  -->
-  <img align="center" alt="Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
+  <img align="center" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40">
+  <img align="center" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40">
+  <img align="center" alt="Js" rc="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width="40" height="40">
+  <img align="center" alt="React" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width="40" height="40">
+  <img loading="lazy" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+  <img loading="lazy" alt="Linux" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img loading="lazy" alt="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="40" height="40"/> 
+  
 </div>
 
   ##
