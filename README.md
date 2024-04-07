@@ -11,7 +11,7 @@
 </div><br>
 
 - 💻 Cursando Engenharia de Software
-- 📚 Estudando Desenvolvimento Front-End
+- 📚 Desenvolvimento Full Stack
 - 🔍 Sempre em busca de novos conhecimentos!
 - ✨ Tudo é possível ao que crê! ✨
 
