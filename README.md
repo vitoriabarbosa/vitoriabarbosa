@@ -2,7 +2,7 @@
 
 [<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=24&amp;pause=1000&amp;color=8E0E44![img.png](img.png)&amp;vCenter=true&amp;random=false&amp;width=800&amp;lines=HELLO%2C+WORLD!+I&#39;M+A+DEVELOPER!++%3D%5D"/>](https://git.io/typing-svg)
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="600px" width="600px" align="right"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="300px" max-width="400px" width="400px" align="right"/>
 
 <div align="left">
     <h2 align="center">👩🏻‍💻 About me</h2>
@@ -18,7 +18,7 @@
     <li>✨ Tudo é possível ao que crê! ✨</li>
 </div>
 
-<br><br><br><br>
+<br><br><br>
 <div align="center">
     <h2>📊 GitHub Stats</h2>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriabarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="streak graph"/>
