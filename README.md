@@ -1,7 +1,7 @@
 <div align="center">
-<img width=100% height="30%" src="https://capsule-render.vercel.app/api?type=waving&color=fd4171&height=200&section=header&text=Vit%C3%B3ria+Barbosa&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt=""/>
+<img width=100% height="40%" src="https://capsule-render.vercel.app/api?type=waving&color=fd4171&height=200&section=header&text=Vit%C3%B3ria+Barbosa&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt=""/>
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=28&amp;pause=1000&amp;color=fd4171![img.png](img.png)&amp;vCenter=true&amp;random=false&amp;width=400&amp;lines=HELLO%2C+WORLD!" alt=""/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=28&amp;pause=1000&amp;color=fd4171![img.png](img.png)&amp;vCenter=true&amp;random=false&amp;width=380&amp;lines=HELLO%2C+WORLD!" alt=""/>
 </a>
 </div>
 
@@ -9,16 +9,16 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" width="400px" align="right" alt=""/>
 <h2>👩🏻‍💻 About me</h2>
 <p align="justify">
-    Me chamo Vitória, tenho 20 anos, sou natural do Rio de Janeiro, e atualmente residindo em Campina Grande na Paraíba. Desde pequena sempre tive uma grande admiração pela internet e toda sua funcionalidade, e desejava aprender a construir sites e programas.
-    <br>
-    Hoje, sou estudante da área, minha admiração e gosto pela programação só cresceu! <b>Apesar de não ser uma jornada simples, pretendo me esforçar para ser uma excelente profissional!</b>
+    Me chamo Vitória, tenho 20 anos, sou natural do Rio de Janeiro, e atualmente residindo em Campina Grande na Paraíba. Desde pequena sempre tive uma grande admiração pela internet e toda sua funcionalidade, e desejava aprender a construir sites e programas.<br>Hoje, sou estudante da área, minha admiração e gosto pela programação só cresceu! <b>Apesar de não ser uma jornada simples, pretendo me esforçar para ser uma excelente profissional!</b>
 </p>
-<ul>
-    <li>💻 Cursando Engenharia de Software</li>
-    <li>📚 Desenvolvimento Full Stack</li>
-    <li>🔍 Sempre em busca de novos conhecimentos!</li>
-    <li>✨ Tudo é possível ao que crê! ✨</li>
-</ul>
+
+- 💻 Cursando Engenharia de Software
+- 📚 Desenvolvimento Full Stack
+- 🔍 Sempre em busca de novos conhecimentos!
+- ✨ Tudo é possível ao que crê! ✨
+<br>
+    
+[![](https://visitcount.itsvg.in/api?id=vitoriabarbosa&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </div>
 <br clear="left" />
 
@@ -45,12 +45,13 @@
 <br><br>
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vitoriabarbosa&theme=dracula&no-frame=false&no-bg=false&margin-w=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vitoriabarbosa&theme=dracula&no-frame=false&no-bg=false&margin-w=2)
 <br><br>
 
 ## ✉️ Contact me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/barbosa.crf_) [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbosa.vitoriags@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriabarbosaa)
+<br><br>
 
-<img width=100% height="20%" src="https://capsule-render.vercel.app/api?type=waving&color=fd4171&height=150&section=footer" alt=""/>
+<img width=100% height="30%" src="https://capsule-render.vercel.app/api?type=waving&color=fd4171&height=150&section=footer" alt=""/>
 </div>
 <!-- -->
